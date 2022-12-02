@@ -1,9 +1,9 @@
 
 ## Hi 👋, I'm Nuno
 
-[![](https://img.shields.io/badge/-my%20website-ff9800)](https://nunorc.github.io)
-[![](https://img.shields.io/badge/-my%20portfolio-ff9800)](https://nunorc.github.io/#portfolio)
-[![](https://img.shields.io/badge/-my%20courses-ff9800)](https://nunorc.github.io/#courses)
+[![website](https://img.shields.io/badge/-website-ff9800)](https://nunorc.github.io)
+[![portfolio](https://img.shields.io/badge/-portfolio-ff9800)](https://nunorc.github.io/#portfolio)
+[![courses](https://img.shields.io/badge/-courses-ff9800)](https://nunorc.github.io/#courses)
 
 ### My interests
 
@@ -18,11 +18,11 @@
 
 ### Connect with me
 
-[![](https://img.shields.io/badge/-linkedin-616161)](https://www.linkedin.com/in/nuno-ramos-carvalho/)
-[![](https://img.shields.io/badge/-github-616161)](https://github.com/nunorc)
-[![](https://img.shields.io/badge/-medium-616161)](https://medium.com/@nunorc)
-[![](https://img.shields.io/badge/-scholar-616161)](https://scholar.google.com/citations?hl=en&user=vO3TvWQAAAAJ)
-[![](https://img.shields.io/badge/-twitter-616161)](https://twitter.com/nunorcarvalho)
-[![](https://img.shields.io/badge/-instagram-616161)](https://www.instagram.com/nuno.rc/)
-[![](https://img.shields.io/badge/-youtube-616161)](https://www.youtube.com/channel/UC-0259IZU2YbY-hLEpdCygw)
-[![](https://img.shields.io/badge/-soundcloud-616161)](https://soundcloud.com/nuno-carvalho-149185839)
+[![linkedin](https://img.shields.io/badge/-linkedin-616161)](https://www.linkedin.com/in/nuno-ramos-carvalho/)
+[![github](https://img.shields.io/badge/-github-616161)](https://github.com/nunorc)
+[![medium](https://img.shields.io/badge/-medium-616161)](https://medium.com/@nunorc)
+[![scholar](https://img.shields.io/badge/-scholar-616161)](https://scholar.google.com/citations?hl=en&user=vO3TvWQAAAAJ)
+[![twitter](https://img.shields.io/badge/-twitter-616161)](https://twitter.com/nunorcarvalho)
+[![instagram](https://img.shields.io/badge/-instagram-616161)](https://www.instagram.com/nuno.rc/)
+[![youtube](https://img.shields.io/badge/-youtube-616161)](https://www.youtube.com/channel/UC-0259IZU2YbY-hLEpdCygw)
+[![soundcloud](https://img.shields.io/badge/-soundcloud-616161)](https://soundcloud.com/nuno-carvalho-149185839)
