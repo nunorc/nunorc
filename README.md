@@ -1,4 +1,6 @@
 
+<div align="center">
+
 ## Hi 👋, I'm Nuno
 
 [![website](https://img.shields.io/badge/-website-ff9800)](https://nunorc.github.io)
@@ -26,3 +28,5 @@
 [![instagram](https://img.shields.io/badge/-instagram-616161)](https://www.instagram.com/nuno.rc/)
 [![youtube](https://img.shields.io/badge/-youtube-616161)](https://www.youtube.com/channel/UC-0259IZU2YbY-hLEpdCygw)
 [![soundcloud](https://img.shields.io/badge/-soundcloud-616161)](https://soundcloud.com/nuno-carvalho-149185839)
+
+</div>
